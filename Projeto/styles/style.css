@@ -94,11 +94,12 @@ body {
 
   border: 2px solid var(--cor-terciaria);
   width: 50%;
+  height: 20px;
   text-align: center;
   border-radius: 8px;
   font-size: 1.5rem; /* 1rem = 16px */
   font-weight: 600;
-  padding: 21.5px 0;
+  padding: 20px 0;
   text-decoration: none;
   color: var(--cor-secundaria);
   font-family: var(--font-secundaria);
@@ -108,7 +109,7 @@ body {
   background-color: var(--cor-hover);
   color: #4785f7;
   border-color: #4785f7;
-  padding: 3%;
+
   transition: 0.5s;
 }
 
